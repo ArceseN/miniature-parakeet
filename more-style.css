@@ -1,0 +1,29 @@
+.navbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container {
+    background-color: blanchedalmond;
+    border-radius: 25px;
+}
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkslategray; 
+    font-size: 20px;
+    margin: 10px;
+}
+img {
+    max-width: 510px;
+    padding: 50px;
+}
+.col-sm1 {
+    padding: 50px;
+}
+.col-sm2 :hover {
+    opacity: 0.8;
+}
+body p{
+    margin: 0px;
+}
+.foot {
+    color: black;
+}
